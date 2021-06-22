@@ -1,0 +1,8 @@
+﻿2021-06-09 12:08:20, Error                        Failed to check OS architecture. 0x00000490[gle=0x00000002]
+2021-06-09 12:08:20, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2021-06-09 12:08:20, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2021-06-09 12:08:20, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2021-06-09 12:08:20, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2021-06-09 12:08:21, Error                        Invalid path specified
+2021-06-09 12:22:37, Error                        0x80070490 in PushButtonReset::OEMConnection::Create (base\reset\engine\cloud\src\oemconnection.cpp:57): Did not find OEM plugin [X:\sources\recovery\tools\cloudrecplugin.dll] in running OS[gle=0x00000003]
+2021-06-09 12:22:37, Error                        0x80070490 in PushButtonReset::CloudConnection::Create (base\reset\engine\cloud\src\connection.cpp:60): Failed to create connection of type [1][gle=0x00000003]
